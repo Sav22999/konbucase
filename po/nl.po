@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.github.ryonakano.konbucase\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-13 04:37+0000\n"
+"POT-Creation-Date: 2021-05-24 10:22+0000\n"
 "PO-Revision-Date: 2021-04-13 13:08+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: \n"
@@ -51,11 +51,13 @@ msgid "The first character of the first word in the sentence is in uppercase"
 msgstr "De eerste letter van het eerste woord in de zin is een hoofdletter"
 
 #: src/MainWindow.vala:53
-msgid "Light background"
+#, fuzzy
+msgid "Light Background"
 msgstr "Licht thema"
 
 #: src/MainWindow.vala:54
-msgid "Dark background"
+#, fuzzy
+msgid "Dark Background"
 msgstr "Donker thema"
 
 #. TRANSLATORS: Whether to follow system's dark style settings
