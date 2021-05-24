@@ -50,8 +50,8 @@ public class MainWindow : Gtk.ApplicationWindow {
             "display-brightness-symbolic",
             "weather-clear-night-symbolic"
         ) {
-            primary_icon_tooltip_text = _("Light background"),
-            secondary_icon_tooltip_text = _("Dark background"),
+            primary_icon_tooltip_text = _("Light Background"),
+            secondary_icon_tooltip_text = _("Dark Background"),
             valign = Gtk.Align.CENTER
         };
 
